@@ -1,5 +1,6 @@
 # HEAR-set
 A ligHtwEight Acoustic paRameter set 
+
 Version (1.0.0)
 
 The HEAR set is a set of available acoustic parameters useful for assessing voice quality in subjects with mental disorders, highlighting early signs of these disorders and supporting their correct medical diagnosis. The acoustic parameter set consists of jitter analysis, spectral centroid, Mel-frequency cepstral coefficients (MFCC), and their derivatives. 
