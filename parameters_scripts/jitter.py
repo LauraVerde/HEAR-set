@@ -1,5 +1,6 @@
 import parselmouth
 import numpy as np
+from scipy.io import savemat
 
 
 
@@ -17,6 +18,9 @@ if __name__ == '__main__':
     filename = 'path'
     ji=jitter(filename)
     print(ji)
+
+    #save jitter value as file.mat ('jitter.mat')
+    savemat('jitter.mat', {'jitter_value': ji})
 
 
 
