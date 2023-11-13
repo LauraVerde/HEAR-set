@@ -8,6 +8,12 @@ The HEAR set is a set of available acoustic parameters useful for assessing voic
 The aim is to provide researchers with a fast and reliable acoustic parameter set to support their studies on voice processing and early diagnosis of specific disorders.
 
 
+## Structure of the repository
+
+The repository contains:
+[parameters_scripts](https://github.com/LauraVerde/HEAR-set/tree/main/parameters_scripts): scripts to extract acoustic parameters.
+
+
 ## Credits
 
 This toolkit is build using Matlab R2023a, licensed to Università della Campania "Luigi Vanvitelli"upon the following software libraries. The tools use the Audio Toolbox (v.3.4).
