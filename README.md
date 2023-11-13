@@ -11,7 +11,7 @@ The aim is to provide researchers with a fast and reliable acoustic parameter se
 ## Structure of the repository
 
 The repository contains:
-[parameters_scripts](https://github.com/LauraVerde/HEAR-set/tree/main/parameters_scripts): scripts to extract acoustic parameters.
+-[parameters_scripts](https://github.com/LauraVerde/HEAR-set/tree/main/parameters_scripts): scripts to extract acoustic parameters.
 
 
 ## Credits
