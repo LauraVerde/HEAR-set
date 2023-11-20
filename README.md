@@ -10,11 +10,11 @@ The aim is to provide researchers with a fast and reliable acoustic parameter se
 
 ## Structure of the repository
 
-The repository contains the folder [parameters_scripts](https://github.com/LauraVerde/HEAR-set/tree/main/parameters_scripts) which includes scripts to extract acoustic parameters. It consists of:
--[https://github.com/LauraVerde/HEAR-set/blob/main/parameters_scripts/fD1D2.m]: script to extract MFCC derivates;
--[https://github.com/LauraVerde/HEAR-set/blob/main/parameters_scripts/fMfcc.m]: script to extract MFCC;
--[https://github.com/LauraVerde/HEAR-set/blob/main/parameters_scripts/fSc.m]: script to extract spectral centroid parameter; and
--[https://github.com/LauraVerde/HEAR-set/blob/main/parameters_scripts/jitter.py]: script to extract jitter parameter.
+The repository contains the folder [parameters_scripts](https://github.com/LauraVerde/HEAR-set/tree/main/parameters_scripts) which includes scripts to extract acoustic parameters. It consists of:\
+-[fD1D2.m](https://github.com/LauraVerde/HEAR-set/blob/main/parameters_scripts/fD1D2.m): script to extract MFCC derivates;\
+-[fMfcc](https://github.com/LauraVerde/HEAR-set/blob/main/parameters_scripts/fMfcc.m): script to extract MFCC;\
+-[fSc](https://github.com/LauraVerde/HEAR-set/blob/main/parameters_scripts/fSc.m): script to extract spectral centroid parameter; and\
+-[jitter](https://github.com/LauraVerde/HEAR-set/blob/main/parameters_scripts/jitter.py): script to extract jitter parameter.
 
 
 
