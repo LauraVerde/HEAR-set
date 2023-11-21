@@ -26,4 +26,4 @@ Additionnaly, the Python library "praat-parselmouth" (v.0.4.3) is used.
 
 ## License
 
-The software is lincensed according to .....
+The software is licensed according to requirements of [NASA OPEN SOURCE AGREEMENT VERSION 1.3](https://javapathfinder.sourceforge.net/NOSA-1.3-JPF.txt).
